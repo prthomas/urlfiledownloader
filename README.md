@@ -19,3 +19,9 @@
    `pytest <test-file-name>`
 1. Deactivate virtualenv  
    `deactivate`
+
+## Resources
+1. Setup vim as a python [IDE](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+1. Python venv [documentation](https://docs.python.org/3/library/venv.html#module-venv), and [primer](https://realpython.com/python-virtual-environments-a-primer/)
+1. [pytest](https://docs.pytest.org/en/latest/) module
+1. [unittest](https://docs.python.org/3/library/unittest.html) module
