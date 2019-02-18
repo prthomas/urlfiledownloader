@@ -2,12 +2,12 @@
 
 [![Build Status](https://travis-ci.org/prthomas/urlfiledownloader.svg?branch=master)](https://travis-ci.org/prthomas/urlfiledownloader)
 
-## 
+## Setting up for unit-test with python
 1. Create virtualenv  
     `python -m venv <env-name>`
 1. Activate virtualenv  
     `source <env-name>/bin/activate`
-1. Install python modules `pytest`, and  other modules (`requests` is as needed in this use case)  
+1. Install python modules `pytest`, and other modules (`requests` is as needed in this use case)  
      `pip install -r requirements.txt`  
      or  
      `pip install requests`   
